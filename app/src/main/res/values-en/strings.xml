@@ -2,10 +2,8 @@
 <resources>
     <!-- General App -->
     <string name="app_name">Super Mario App</string>
-    <string name="menu_about">About...</string>
+    <string name="menu_about">About..</string>
     <string name="about_message">App developed by [your name]. Version 1.0.</string>
-    <string name="superMario">Super Mario</string>
-
     <!-- Characters -->
     <string name="nombre_mario">Mario</string>
     <string name="descripcion_mario">A brave plumber and hero of the Mushroom Kingdom.</string>

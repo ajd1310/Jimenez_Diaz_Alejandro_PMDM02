@@ -1,7 +1,7 @@
 <resources>
     <!-- App general -->
     <string name="app_name">Super Mario App</string>
-    <string name="menu_about">Acerca de...</string>
+    <string name="menu_about">Acerca de..</string>
     <string name="about_message">Aplicación desarrollada por Alejandro Jiménez Díaz. Versión 1.0.</string>
 
     <string name="ingles">Inglés</string>
@@ -23,7 +23,7 @@
     <string name="habilidades_bowser">Lanzar fuego, Fuerza descomunal, Invocar esbirros</string>
 
     <string name="nombre_yoshi">Yoshi</string>
-    <string name="descripcion_yoshi">Un fiel amigo de Mario y un dinosaurio adorable.</string>
+    <string name="descripcion_yoshi">Un gran amigo de Mario y un dinosaurio adorable.</string>
     <string name="habilidades_yoshi">Lanzar huevos, Lengua elástica, Salto largo</string>
 
     <string name="nombre_toad">Toad</string>
