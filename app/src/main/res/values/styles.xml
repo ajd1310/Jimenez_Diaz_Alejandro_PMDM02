@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <!-- Tema general de la aplicación -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#FF0000</item> <!-- Rojo de Mario -->
+        <item name="colorPrimaryDark">#8B0000</item> <!-- Rojo oscuro -->
+        <item name="colorAccent">#FFD700</item> <!-- Amarillo de monedas -->
+    </style>
+    <style name="ToolbarTitleText" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/mario</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#3D5E64</item>
+    </style>
+    <style name="MenuItemStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">#3D5E64</item>
+        <item name="android:fontFamily">@font/mario</item>
+        <item name="android:background">#FF0000</item>
+    </style>
+    <!-- Estilo para el nombre de los personajes -->
+    <style name="PersonajeNombreStyle">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#3D5E64</item>
+        <item name="android:fontFamily">@font/mario</item>
+    </style>
+
+    <!-- Estilo para la descripción de los personajes -->
+    <style name="PersonajeDescripcionStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#3D5E64</item> <!-- Verde -->
+        <item name="android:fontFamily">@font/mario</item>
+    </style>
+    <style name="PersonajeHabilidadesStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFD700</item>
+        <item name="android:fontFamily">@font/mario</item>
+    </style>
+
+    <!-- Estilo para el RecyclerView -->
+    <style name="RecyclerViewStyle">
+        <item name="android:padding">8dp</item>
+        <item name="android:background">#87CEEB</item> <!-- Azul cielo -->
+    </style>
+
+    <!-- Estilo para los botones -->
+    <style name="BotonPrincipalStyle">
+        <item name="android:backgroundTint">#FFD700</item> <!-- Amarillo -->
+        <item name="android:textColor">#000000</item> <!-- Negro -->
+        <!--<item name="android:cornerRadius">16dp</item>-->
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

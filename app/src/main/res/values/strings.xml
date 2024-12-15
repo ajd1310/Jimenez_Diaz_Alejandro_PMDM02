@@ -1,0 +1,47 @@
+<resources>
+    <!-- App general -->
+    <string name="app_name">Super Mario App</string>
+    <string name="menu_about">Acerca de...</string>
+    <string name="about_message">Aplicación desarrollada por Alejandro Jiménez Díaz. Versión 1.0.</string>
+
+    <string name="ingles">Inglés</string>
+    <!-- Personajes -->
+    <string name="nombre_mario">Mario</string>
+    <string name="descripcion_mario">Un fontanero valiente y héroe del Reino Champiñón.</string>
+    <string name="habilidades_mario">Salto alto, Lanzar fuego, Super velocidad</string>
+
+    <string name="nombre_luigi">Luigi</string>
+    <string name="descripcion_luigi">El hermano tímido pero talentoso de Mario.</string>
+    <string name="habilidades_luigi">Salto alto, Deslizarse, Correr rápido</string>
+
+    <string name="nombre_peach">Peach</string>
+    <string name="descripcion_peach">La princesa del Reino Champiñón, siempre lista para ayudar.</string>
+    <string name="habilidades_peach">Flotar en el aire, Lanzar corazones, Habilidades mágicas</string>
+
+    <string name="nombre_bowser">Bowser</string>
+    <string name="descripcion_bowser">El villano principal, rey de los Koopas.</string>
+    <string name="habilidades_bowser">Lanzar fuego, Fuerza descomunal, Invocar esbirros</string>
+
+    <string name="nombre_yoshi">Yoshi</string>
+    <string name="descripcion_yoshi">Un fiel amigo de Mario y un dinosaurio adorable.</string>
+    <string name="habilidades_yoshi">Lanzar huevos, Lengua elástica, Salto largo</string>
+
+    <string name="nombre_toad">Toad</string>
+    <string name="descripcion_toad">Un residente leal del Reino Champiñón.</string>
+    <string name="habilidades_toad">Correr rápido, Transportar objetos, Fuerza inesperada</string>
+
+    <string name="nombre_wario">Wario</string>
+    <string name="descripcion_wario">Un personaje ambicioso y rival de Mario.</string>
+    <string name="habilidades_wario">Super fuerza, Ataques corporales, Ganar monedas rápidamente</string>
+
+    <string name="nombre_waluigi">Waluigi</string>
+    <string name="descripcion_waluigi">El astuto y sarcástico compañero de Wario.</string>
+    <string name="habilidades_waluigi">Habilidad en deportes, Esquivar ataques, Crear trampas</string>
+
+    <string name="nombre_boo">Boo</string>
+    <string name="descripcion_boo">Un fantasma travieso del Reino Champiñón.</string>
+    <string name="habilidades_boo">Hacerse invisible, Flotar, Asustar a enemigos</string>
+    <!-- Cadenas para el Navigation Drawer -->
+    <string name="open_drawer">Abrir Menú</string>
+    <string name="close_drawer">Cerrar Menú</string>
+</resources>
