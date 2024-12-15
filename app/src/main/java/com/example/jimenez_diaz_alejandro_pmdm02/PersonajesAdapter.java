@@ -34,7 +34,7 @@ public class PersonajesAdapter extends RecyclerView.Adapter<PersonajesAdapter.Pe
      */
     public interface OnItemClickListener {
         /**
-         * Método que se llama cuando un personaje es seleccionado.
+         * Metodo que se llama cuando un personaje es seleccionado.
          *
          * @param personaje El personaje que fue clicado.
          */

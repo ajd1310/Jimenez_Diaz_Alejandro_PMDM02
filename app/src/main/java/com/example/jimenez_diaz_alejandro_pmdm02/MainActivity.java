@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private DrawerLayout drawerLayout;
 
     /**
-     * Método que se ejecuta al crear la actividad.
+     * Metodo que se ejecuta al crear la actividad.
      * @param savedInstanceState Estado de la instancia guardada, utilizado para restaurar el estado anterior.
      */
     @Override
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Método para inflar el menú de opciones.
+     * Metodo para inflar el menú de opciones.
      * @param menu Menú que se infla.
      * @return true si el menú se ha inflado correctamente.
      */

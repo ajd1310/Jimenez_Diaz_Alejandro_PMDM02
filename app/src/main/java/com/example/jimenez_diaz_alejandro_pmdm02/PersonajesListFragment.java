@@ -41,7 +41,7 @@ public class PersonajesListFragment extends Fragment {
     }
 
     /**
-     * Método llamado para inflar la vista del fragmento y configurar su contenido.
+     * Metodo llamado para inflar la vista del fragmento y configurar su contenido.
      *
      * @param inflater           Objeto LayoutInflater para inflar el diseño del fragmento.
      * @param container          Contenedor donde se añadirá la vista del fragmento.

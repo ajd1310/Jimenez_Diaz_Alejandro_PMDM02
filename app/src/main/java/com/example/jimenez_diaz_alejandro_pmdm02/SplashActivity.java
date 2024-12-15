@@ -13,7 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SplashActivity extends AppCompatActivity {
 
     /**
-     * Método llamado al crear la actividad.
+     * Metodo llamado al crear la actividad.
      *
      * @param savedInstanceState Estado previo de la actividad, si lo hubiera.
      */
